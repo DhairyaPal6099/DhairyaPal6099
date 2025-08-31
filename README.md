@@ -1,7 +1,7 @@
 # Hey, I'm Dhairya 👋
 
 
-🎯 *Creativity and Productivity lifestyle enthusiast*
+🎯 *Creativity and Productivity lifestyle enthusiast*  
 From debugging my grandparents’ computers as a kid to engineering systems that scale — I’ve always been obsessed with making things **work smarter**.
 
 
@@ -16,8 +16,8 @@ From debugging my grandparents’ computers as a kid to engineering systems that
 ---
 
 ## 🌍 Featured Projects
-🔹 [PhytO₂ Purifier](https://github.com/DhairyaPal6099/phytoplankton-air-systems) – IoT + Android app to clean the air with phytoplankton
-🔹 [MarketingKit Pro](https://github.com/DhairyaPal6099/marketingkit-pro) – AI social media manager & content calendar
+🔹 [PhytO₂ Purifier](https://github.com/DhairyaPal6099/phytoplankton-air-systems) – IoT + Android app to clean the air with phytoplankton  
+🔹 [MarketingKit Pro](https://github.com/DhairyaPal6099/marketingkit-pro) – AI social media manager & content calendar  
 🔹 [Portfolio Website](#) – minimal, clean, and fast ⚡
 
 ---
