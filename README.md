@@ -1,7 +1,7 @@
 # Hey, I'm Dhairya 👋
 
 
-🎯 *Fixer. Builder. Creator.*
+🎯 *Creativity and Productivity lifestyle enthusiast*
 From debugging my grandparents’ computers as a kid to engineering systems that scale — I’ve always been obsessed with making things **work smarter**.
 
 
@@ -9,13 +9,19 @@ From debugging my grandparents’ computers as a kid to engineering systems that
 
 
 ## 🚀 What I Do
-- 💻 **Computer Engineering @ Humber** (Final stretch 🏁)
-- 🛠️ **Tech Analyst Experience** at **CIBC** + **Interac**
-- 🌱 Building:
-- 🧪 A **phytoplankton-powered air purifier** (hardware + Android app)
-- 🤖 **MarketingKit Pro** — AI that tells you *what* and *when* to post
-- 🎶 Musician: Guitar 🎸 | Vocals 🎤 | Drums 🥁
-- 🏐 Volleyball + fitness enthusiast
+- 💻 **Computer Engineering @ Humber** (Final stretch 🏁)  
+- 🛠️ **Tech Analyst Experience** at **CIBC** + **Interac**  
+- 👨‍💻 Hobbyist programmer & lifelong learner, always building & exploring new tech  
+- 🎶⚡ Active lifestyle: musician (guitar, vocals, piano, drums) + volleyball + fitness 
+
+
+---
+
+
+## 🌍 Featured Projects
+🔹 [PhytO₂ Purifier](https://github.com/DhairyaPal6099/phytoplankton-air-systems) – IoT + Android app to clean the air with phytoplankton
+🔹 [MarketingKit Pro](https://github.com/DhairyaPal6099/marketingkit-pro) – AI social media manager & content calendar
+🔹 [Portfolio Website](#) – minimal, clean, and fast ⚡
 
 
 ---
@@ -38,21 +44,9 @@ From debugging my grandparents’ computers as a kid to engineering systems that
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![API](https://img.shields.io/badge/API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-![IT Support](https://img.shields.io/badge/IT%20Support-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-
----
-
-
-## 🌍 Featured Projects
-🔹 [PhytO₂ Purifier](#) – IoT + Android app to clean the air with plankton
-🔹 [MarketingKit Pro](#) – AI social media manager & content calendar
-🔹 [Portfolio Website](#) – minimal, clean, and fast ⚡
 
 
 ---
@@ -60,32 +54,24 @@ From debugging my grandparents’ computers as a kid to engineering systems that
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dhairyapal&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyapal&layout=compact&theme=tokyonight" alt="langs" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhairyapal6099&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyapal6099&layout=compact&theme=tokyonight" alt="langs" height="165"/>
 </p>
 
 
 ---
-
-
-## 🎵 Outside the Code
-- Sharing covers + tutorials on [YouTube](#) 🎤
-- Playing open mics & late-night jam sessions
-- Exploring Toronto rooftops 🌆
-
-
----
-
 
 ## 🤝 Let’s Connect
 <p align="center">
-<a href="https://www.linkedin.com/in/dhairyapal/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/dhairyapal"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"></a>
-<a href="mailto:dhairyapal@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/dhairyapal/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="40" style="margin-right:15px;">
+  </a>
+  <a href="https://github.com/dhairyapal">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" height="40" style="margin-right:15px;">
+  </a>
+  <a href="mailto:dhairyapal940@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" height="40">
+  </a>
 </p>
 
-
 ---
-
-
-💡 *“Stay curious, stay building.”*
