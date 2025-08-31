@@ -1,7 +1,7 @@
 # Hey, I'm Dhairya 👋
 
 
-🎯 *Creativity and Productivity lifestyle enthusiast*  
+🎯 *Creative and Productive lifestyle enthusiast*  
 From debugging my grandparents’ computers as a kid to engineering systems that scale — I’ve always been obsessed with making things **work smarter**.
 
 
